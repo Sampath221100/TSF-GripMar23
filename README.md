@@ -1,4 +1,4 @@
-# TSF-GripMar23
+# TSF-GRIPMAR23
 
 This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
 
@@ -13,3 +13,8 @@ Task 2 Dataset : https://bit.ly/3kXTdox
 Task 3 - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’. As a business manager, try to find out the weak areas where you can work to make more profit. What all business problems you can derive by exploring the data? 
 
 Task 3 Dataset : https://bit.ly/3i4rbWl
+
+If you're looking for any internships, check this out...
+
+Website  : https://internship.thesparksfoundation.info/
+LinkedIn : https://www.linkedin.com/groups/10379184/
